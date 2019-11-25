@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['n_5falign',['N_ALIGN',['../exec__aout_8h.html#af7984ea8b73a999e1ca37cb73734380c',1,'exec_aout.h']]],
+  ['n_5fbadmag',['N_BADMAG',['../exec__aout_8h.html#af54d44e881a9b7b5132d61b5b7d93870',1,'exec_aout.h']]],
+  ['n_5fbadmax',['N_BADMAX',['../aout__machdep_8h.html#a57b8b32a500bdcf077d2215c747d79f7',1,'aout_machdep.h']]],
+  ['n_5fbssaddr',['N_BSSADDR',['../aout__machdep_8h.html#ae102c2aeb5fa1f5444637873d1f6296a',1,'aout_machdep.h']]],
+  ['n_5fdataddr',['N_DATADDR',['../aout__machdep_8h.html#adfb44d009604a17a2feaa1c8406e3307',1,'aout_machdep.h']]],
+  ['n_5fdatoff',['N_DATOFF',['../aout__machdep_8h.html#aec51c95edfb87da2afddec7631eb2209',1,'aout_machdep.h']]],
+  ['n_5fgetmagic',['N_GETMAGIC',['../aout__machdep_8h.html#a527a4fb992187329461477e098b2d373',1,'aout_machdep.h']]],
+  ['n_5fpagsiz',['N_PAGSIZ',['../exec__aout_8h.html#aedd4f33df93c0b82533a9cbd11e18ee2',1,'exec_aout.h']]],
+  ['n_5ftxtaddr',['N_TXTADDR',['../aout__machdep_8h.html#acf91e3eefe1959bc971d50e52eeb638b',1,'aout_machdep.h']]],
+  ['n_5ftxtoff',['N_TXTOFF',['../aout__machdep_8h.html#a47e0f0d2154679d4038d2198d4c607c3',1,'aout_machdep.h']]],
+  ['nan',['NAN',['../text_8cc.html#a8abfcc76130f3f991d124dd22d7e69bc',1,'text.cc']]],
+  ['nmagic',['NMAGIC',['../exec__aout_8h.html#aa56ddd2588ce1eb6ad0e32b933b366ad',1,'exec_aout.h']]],
+  ['nmagic_5fstruct',['NMAGIC_STRUCT',['../exec__aout_8test_8cc.html#a45df6b141f487e582dcd85a6d47e956c',1,'NMAGIC_STRUCT():&#160;exec_aout.test.cc'],['../exec__ecoff_8test_8cc.html#a45df6b141f487e582dcd85a6d47e956c',1,'NMAGIC_STRUCT():&#160;exec_ecoff.test.cc']]],
+  ['no_5fmagic_5fstruct',['NO_MAGIC_STRUCT',['../exec__aout_8test_8cc.html#a952fbfbd0fd0af6fbc8f50d8e3299a8d',1,'NO_MAGIC_STRUCT():&#160;exec_aout.test.cc'],['../exec__ecoff_8test_8cc.html#a952fbfbd0fd0af6fbc8f50d8e3299a8d',1,'NO_MAGIC_STRUCT():&#160;exec_ecoff.test.cc']]],
+  ['no_5fstat64',['NO_STAT64',['../syscall__emul_8hh.html#a1b37791ed9ed61caf1eafd4c2853c883',1,'syscall_emul.hh']]],
+  ['ns',['NS',['../io__controller_8h.html#a06c201f90533d5b49cd039c960327968',1,'NS():&#160;io_controller.h'],['../io__controller1_8h.html#a06c201f90533d5b49cd039c960327968',1,'NS():&#160;io_controller1.h']]],
+  ['nsector_5foffset',['NSECTOR_OFFSET',['../ide__disk_8hh.html#a3c028923d4dbc280c75f2d05a07af561',1,'ide_disk.hh']]]
+];
